@@ -1,7 +1,7 @@
 # IRWA FINAL PROJECT
 
 ## Project Part 1 Overview
-    The final project focuses on building a search and retrieval system for an e-commerce fashion products dataset. The goal of this first part is to preprocess product data, perform exploratory data analysis (EDA), and prepare the dataset for the next parts for efficient retrieval based on user queries.
+The final project focuses on building a search and retrieval system for an e-commerce fashion products dataset. The goal of this first part is to preprocess product data, perform exploratory data analysis (EDA), and prepare the dataset for the next parts for efficient retrieval based on user queries.
 
 ## Installation
 1. Clone the repository:  
