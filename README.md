@@ -7,7 +7,7 @@ The final project focuses on building a search and retrieval system for an e-com
 1. Clone the repository:  
    ```bash
    git clone https://github.com/laiaatomas/IRWA_FinalProject
-   cd projectname
+   cd IRWA_FinalProject
 
 2. Create a virtual environment:
    ```bash
