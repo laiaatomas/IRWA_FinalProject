@@ -22,7 +22,7 @@ The final project focuses on building a search and retrieval system for an e-com
     pip install -r requirements.txt
 
 ## Usage
-Run the code in project_part1.ipynb for preprocessing the dataset and performing the exploratory data analysis.
+Run the code in project_part2.ipynb for the results of ranking and evaluating queries.
 
 
 Find additional information in the report.
