@@ -2,7 +2,7 @@
 This repository contains the final project for the Information Retrieval and Web Analysis course.
 This final project focuses on building a search and retrieval system for an e-commerce fashion products dataset. 
 
-### Dataset Availability:warning:
+### Dataset Availability :warning:
 The dataset used in this project cannot be shared publicly. If you want to run the project, please contact me to obtain the dataset.
 
 ## Project Part 1 Overview
