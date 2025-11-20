@@ -39,9 +39,9 @@ Run project_part1.ipynb\
 &nbsp;- Preprocessing and EDA.
 
 Run project_part2.ipynb\
-&nbsp;- Inverted index, TF-IDF, query selection, ranking, evaluations.
+&nbsp;- Inverted index, TF-IDF, query selection, ranking and evaluations.
 
 Run project_part3.ipynb\
-&nbsp;- TF-IDF, BM25, custom scoring, Word2Vec, Doc2Vec.
+&nbsp;- TF-IDF, BM25, custom scoring, Word2Vec and Doc2Vec.
 
 Find additional information in the report.
